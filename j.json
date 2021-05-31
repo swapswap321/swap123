@@ -17,6 +17,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+      "name": "badger",
+      "symbol": "BADGER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+    {
+      "chainId": 1,
       "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
       "name": "Compound USD Coin",
       "symbol": "cUSDC",
