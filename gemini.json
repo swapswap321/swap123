@@ -231,12 +231,12 @@
           "logoURI": "https://gemini.com/images/currencies/icons/default/yfi.svg"
       },
       {
-          "name": "0xProtocol",
+          "name": "Badger",
           "chainId": 1,
-          "symbol": "ZRX",
+          "symbol": "BADGER",
           "decimals": 18,
-          "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-          "logoURI": "https://raw.githubusercontent.com/swapswap321/swap123/main/moon.png"
+          "address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+          "logoURI": "https://etherscan.io/token/images/badger_32.png"
       }
 
      }
